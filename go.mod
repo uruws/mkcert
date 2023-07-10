@@ -1,4 +1,4 @@
-module filippo.io/mkcert
+module github.com/uruws/mkcert
 
 go 1.18
 
